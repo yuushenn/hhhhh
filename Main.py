@@ -1,5 +1,3 @@
-# Tic Tac Toe 
-
 import math
 
 HUMAN = "X"
